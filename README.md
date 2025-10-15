@@ -3,7 +3,9 @@
 ## Dataset
 Our dataset includes 11,086 publicly accessible firmware images and 23,050 private firmware images from TSmart.  Due to the potential ethical issues and the large size of the dataset, we provide the official download links of the public firmware images and open-source the private firmware images after desensitizing.
 
-Please directly contact binbin.zhao@gatech.edu to get the dataset.
+Download link: https://1drv.ms/u/c/0649657227fd8dc5/EUN4kq7QAhxOqWjXlO-WaYYBZlJqWAKQdYblW8xFT1MxDA?e=j30CPV
+
+Please directly contact binbinz@zju.edu.cn for the password.
 
 ![Dataset](Dataset.png)
 
